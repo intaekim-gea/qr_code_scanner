@@ -2,7 +2,10 @@
 
 # Important note
 
-This is a maintained fork of `qr_code_scanner` package with extra maintenance done to fix Android and WEB support. As such, it is targeting mainly existing users of qr_code_scanner.
+This is a fork of `qr_code_scanner` package with extra maintenance done to fix Android and WEB support. As such, it is targeting mainly existing users of qr_code_scanner.
+
+**Extra help desired:** I would happily review improvements and bug fixes.
+**No new features:** This package will not implement any new features. This is maintanance fork only.
 
 **If you are starting a new project and you do not need WEB support, you may want to also look at the [mobile_scanner](https://pub.dev/packages/mobile_scanner) as it may be superior**.
 
