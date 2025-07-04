@@ -1,13 +1,15 @@
 [![pub package](https://img.shields.io/pub/v/qr_code_scanner_plus?include_prereleases)](https://pub.dartlang.org/packages/qr_code_scanner_plus)
 
-# Important note
+**If you are starting a new project, you should probably look at the [mobile_scanner](https://pub.dev/packages/mobile_scanner) package as it is actively maintained**.
+
+# Important note: Maintenance only fork
 
 This is a fork of `qr_code_scanner` package with extra maintenance done to fix Android and WEB support. As such, it is targeting mainly existing users of qr_code_scanner.
-
-**Extra help desired:** I would happily review improvements and bug fixes.
 **No new features:** This package will not implement any new features. This is maintanance fork only.
 
-**If you are starting a new project and you do not need WEB support, you may want to also look at the [mobile_scanner](https://pub.dev/packages/mobile_scanner) as it may be superior**.
+# Help Desired
+
+I would happily review improvements and bug fixes.
 
 Since the underlying frameworks of this package, [zxing for android](https://github.com/zxing/zxing) and [MTBBarcodescanner for iOS](https://github.com/mikebuss/MTBBarcodeScanner) are both not longer maintaned, this plugin is no longer up to date and in maintenance mode only. Only bug fixes and minor enhancements will be considered.
 
